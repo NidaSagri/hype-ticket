@@ -1,3 +1,3 @@
 # hype-ticket
 
-this is an online movie ticket management system project.
+this is an online movie ticket management system project in python.
